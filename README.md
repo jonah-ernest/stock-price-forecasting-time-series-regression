@@ -26,13 +26,13 @@ Multiple regression specifications were tested, including versions that incorpor
 
 ## Repository Contents
 
-- README.md  
-- Stock_Price_Forecasting_Report.pdf  
+- `README.md`
+- `Stock_Price_Forecasting_Report.pdf`
 
-- forecasting_models/
-  - anova_seasonality_tests.xlsx  
-  - holt_exponential_smoothing.xlsx  
-  - linear_regression_forecast.py  
+- `forecasting_models/`
+  - `anova_seasonality_tests.xlsx`  
+  - `holt_exponential_smoothing.xlsx`  
+  - `linear_regression_forecast.py`  
 
 ---
 
